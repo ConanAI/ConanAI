@@ -1,6 +1,4 @@
-# Hey there!
-
-## We're Conan!
+# Hey there! We're Conan!
 
 We build helpful AI technologies for the modern age, and by that we mean powerful and privacy-respecting.
 
